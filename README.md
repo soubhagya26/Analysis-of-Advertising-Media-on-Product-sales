@@ -1,4 +1,4 @@
-# Predict-Sales-by-Advertising-Ads
+# Analysis-of-Advertising-Media-on-Product-sales
 # Project Overview
 ## Objective : To predict sales for given budget spend on TV, Radio and Newspaper in dollars.
 - Regression Problem
